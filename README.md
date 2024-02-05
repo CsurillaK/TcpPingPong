@@ -3,4 +3,6 @@ Python TCP socket example, where the same class can act as server or client depe
 
 Run _graphics.py_ and/or _communication.py_ from two separate terminals.
 
+![](Media/animation.gif)
+
 Tested on Windows 11.
